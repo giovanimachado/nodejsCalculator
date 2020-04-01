@@ -2,8 +2,8 @@
 
 Calculator that runs server side
 
-Need to deploy, running in localhost
-http://localhost:3000/bmiCalculator
+Need to deploy, running in localhost <br>
+http://localhost:3000/bmiCalculator <br>
 http://localhost:3000/
 
 Project created using:
